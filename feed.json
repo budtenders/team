@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Bud Tenders Institute",
+    "description": "",
+    "home_page_url": "http://budtenders.team",
+    "feed_url": "http://budtenders.team/feed.json",
+    "user_comment": "",
+    "icon": "http://budtenders.team/media/website/The-Bud-Tenders-Institute-white-min-300x143.png",
+    "author": {
+        "name": "Jane Remington"
+    },
+    "items": [
+        {
+            "id": "http://budtenders.team/contact-us/",
+            "url": "http://budtenders.team/contact-us/",
+            "title": "Contact US",
+            "summary": "The Bud Tenders Institute Contact Us Address: 4245 S Grand Canyon Dr, Las Vegas, NV 89147 Phone: (702) 551-2147 Email: Jane@Budtenders.team ",
+            "content_html": "<p class=\"align-center\"><strong>The Bud Tenders Institute Contact Us</strong></p>\n<figure class=\"post__image post__image post__image--center\" ><img src=\"http://budtenders.team/media/posts/1/5df42794b4a68.png\" alt=\"4245 S Grand Canyon Dr Suite #112, Las Vegas, NV 89147\" width=\"1000\" height=\"367\">\n<figcaption >Put your caption here</figcaption>\n</figure>\n<p><strong>Address: 4245 S Grand Canyon Dr, Las Vegas, NV 89147</strong></p>\n<p><strong>Phone: (702) 551-2147</strong></p>\n<p><strong>Email: <a href=\"mailto:Jane@Budtenders.team\">Jane@Budtenders.team</a></strong></p>\n<p> </p>",
+            "author": {
+                "name": "Jane Remington"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-12-13T17:08:17-07:00",
+            "date_modified": "2019-12-13T17:08:17-07:00"
+        }
+    ]
+}

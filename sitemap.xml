@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://budtenders.team/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>http://budtenders.team/</loc>
+</url>
+<url>
+<loc>http://budtenders.team/contact-us/</loc>
+<lastmod>2019-12-13T17:08:17-07:00</lastmod>
+<image:image>
+<image:loc>http://budtenders.team/media\posts\1/5df42794b4a68.png</image:loc>
+<image:title><![CDATA[4245 S Grand Canyon Dr Suite #112, Las Vegas, NV 89147]]></image:title>
+</image:image>
+</url>
+</urlset>
